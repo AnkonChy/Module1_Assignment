@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+body {
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: orange;
+    color: black;
+
+}
+
+.result {
+    font-size: 20px;
+    margin-top: 20px;
+}
