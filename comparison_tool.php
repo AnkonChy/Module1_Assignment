@@ -11,7 +11,8 @@
 <body>
 
   <div class="container">
-    <p>COMPARISON TOOL</p><hr><br><br><br>
+    <p>COMPARISON TOOL</p>
+    <hr><br><br><br>
     <form action="" method="post">
       <label for="">Enter first number</label><br>
       <input type="number" name="num1"><br><br>
@@ -31,10 +32,7 @@
       }
       ?>
     </div>
-
   </div>
-
-
 </body>
 
 </html>
