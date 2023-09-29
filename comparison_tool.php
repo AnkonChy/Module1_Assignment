@@ -9,7 +9,6 @@
 </head>
 
 <body>
-
   <div class="container">
     <p>COMPARISON TOOL</p>
     <hr><br><br><br>
